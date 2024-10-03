@@ -32,7 +32,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://<nathalia-quintanilha>.github.io/AT-Mobile-first",
+  "homepage": "https://<nathaliaquintanilha>.github.io/AT-Mobile-first",
   "browserslist": [
     ">0.2%",
     "not dead",
